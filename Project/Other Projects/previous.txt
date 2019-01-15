@@ -1,0 +1,53 @@
+
+
+Recommendation system for usefulness of reviews(Yelp)
+https://www.dropbox.com/sh/nkajop5p94cqmd4/AADNYoatdzFTXTn8FPAD7oiBa?dl=0
+
+Yelp Rating Analysis
+https://github.com/ileanmjr88/CS410-Project
+
+Analysis of Airbnb Review Data
+https://sgardas2.github.io/CS410/SravanKumarGardas_CS410_project.pdf
+
+Airbnb Search System With Text Mining
+https://github.com/hcxyeah/MCS-BetterSearchHotel
+
+
+Sentiment on restaurant reviews
+https://gitlab.textdata.org/shiranimehr/my-CS410-project/
+
+Hotel search engine
+https://github.com/hcxyeah/MCS-BetterSearchHotel
+
+Movie Critic
+https://gitlab.textdata.org/satishv2/cs410finalproject
+
+Predictng Box Office Success based on IMDB Reviews
+
+Dream Travel Incubator
+https://mediaspace.illinois.edu/media/t/1_785jaqy4/65726951
+
+
+Product-Recommender-System
+https://github.com/harimanan/Product-Recommender-System
+
+Tech Review
+WEKA: https://www.cs.waikato.ac.nz/ml/weka/
+MALLET: http://mallet.cs.umass.edu/
+ORANGE: https://orange.biolab.si/
+SVM LIGHT: https://www.cs.cornell.edu/people/tj/svm_light/
+
+
+
+Hotel Review & Historical Local Economy Metrics for Causual Topic
+https://github.com/irxum/causality/blob/master/AlexKwan_ProjectProposal.pdf
+
+----------------------------------------------------
+Analyzing Sentiments about Airlines
+https://gitlab.textdata.org/karya2/AirlineSentimentClassifier
+
+Vacation planning assistance	
+https://github.com/namans3/Keyword-Extraction
+
+Vertical search engine for restaurant meals	
+https://gitlab.textdata.org/brooker3/CS410-project

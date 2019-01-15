@@ -1,0 +1,7 @@
+1.shell or python?
+2. wget
+
+https://stackoverflow.com/questions/26866950/wget-not-working-in-python
+
+
+otryA-smwKbHnFbR7GEi

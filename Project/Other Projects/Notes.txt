@@ -1,0 +1,27 @@
+#20 comment out
+
+two classifcation 
+sklearn 
+
+TN FP
+FN TP 
+binary 
+positive 1 negative 0
+find nb is the best compared accuracy score
+
+------------
+based on this only check NB
+
+can do word-based sentiment analysis
+nltk 
+postive 
+10000 words
+no need to run
+only show accuracy score
+
+??
+asscoate words to 0 or 1
+if have both neg and pos words ?
+average score play a what role here?
+
+freq_pos most common words=> aspect

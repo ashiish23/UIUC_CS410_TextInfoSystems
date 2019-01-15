@@ -1,0 +1,1494 @@
+,Hotel_Name,Average_Score,count
+0,Ritz Paris,9.8,28
+1,H10 Casa Mimosa 4 Sup,9.6,116
+2,H tel de La Tamise Esprit de France,9.6,61
+3,41,9.6,103
+4,Hotel The Serras,9.6,213
+5,Haymarket Hotel,9.6,121
+6,Hotel Casa Camper,9.6,301
+7,Taj 51 Buckingham Gate Suites and Residences,9.5,133
+8,Milestone Hotel Kensington,9.5,86
+9,Ham Yard Hotel,9.5,141
+10,Hotel Sacher Wien,9.5,130
+11,Le Narcisse Blanc Spa,9.5,57
+12,Waldorf Astoria Amsterdam,9.5,142
+13,Mercer Hotel Barcelona,9.5,146
+14,The Soho Hotel,9.5,157
+15,Hotel The Peninsula Paris,9.5,58
+16,Charlotte Street Hotel,9.5,141
+17,Palais Coburg Residenz,9.5,16
+18,Catalonia Square 4 Sup,9.4,437
+19,Shangri La Hotel at The Shard London,9.4,1113
+20,The Wittmore Adults Only,9.4,85
+21,Batty Langley s,9.4,345
+22,Corinthia Hotel London,9.4,213
+23,La Chambre du Marais,9.4,88
+24,Catalonia Magdalenes,9.4,311
+25,The Beaumont Hotel,9.4,120
+26,Nolinski Paris,9.4,113
+27,Rosewood London,9.4,390
+28,The Toren,9.4,400
+29,Hotel Sans Souci Wien,9.4,235
+30,The Savoy,9.4,540
+31,Hotel Margot House,9.4,86
+32,Lansbury Heritage Hotel,9.4,40
+33,Covent Garden Hotel,9.4,74
+34,Splendide Royal Paris,9.4,16
+35,The Lanesborough,9.4,31
+36,Hotel Monge,9.4,115
+37,The Goring,9.4,102
+38,45 Park Lane Dorchester Collection,9.4,28
+39,The One Barcelona GL,9.4,85
+40,Boutiquehotel Das Tyrol,9.4,139
+41,H tel D Aubusson,9.4,294
+42,Intercontinental London The O2,9.4,2551
+43,Excelsior Hotel Gallia Luxury Collection Hotel,9.4,310
+44,Pillows Anna van den Vondel Amsterdam,9.4,56
+45,The Guesthouse Vienna,9.4,292
+46,Hotel Palace GL,9.4,357
+47,Best Western Premier Kaiserhof Wien,9.4,334
+48,Hotel Eiffel Blomet,9.4,15
+49,Goralska R sidences H tel Paris Bastille,9.4,24
+50,Hotel Am Stephansplatz,9.3,135
+51,H tel Square Louvois,9.3,72
+52,Monument Hotel,9.3,241
+53,South Place Hotel,9.3,326
+54,Small Luxury Hotel Altstadt Vienna,9.3,173
+55,Le Tsuba Hotel,9.3,57
+56,H tel Saint Marc,9.3,76
+57,Hotel K nig von Ungarn,9.3,268
+58,Bulgari Hotel London,9.3,37
+59,Le 123 S bastopol Astotel,9.3,130
+60,The Nadler Victoria,9.3,601
+61,Hotel Spadari Al Duomo,9.3,243
+62,The Ritz London,9.3,406
+63,Le Relais Montmartre,9.3,182
+64,Claridge s,9.3,157
+65,COMO The Halkin,9.3,29
+66,Canal House,9.3,184
+67,The Montague On The Gardens,9.3,414
+68,Park Hyatt Vienna,9.3,92
+69,H tel Le Royal Monceau Raffles Paris,9.3,22
+70,Olivia Plaza Hotel,9.3,773
+71,Hotel Dupond Smith,9.3,23
+72,Hotel Cafe Royal,9.3,364
+73,The LaLit London,9.3,62
+74,Mill sime H tel,9.3,167
+75,Hotel Rathaus Wein Design,9.3,338
+76,Le Meurice,9.3,40
+77,Olivia Balmes Hotel,9.3,510
+78,Egerton House,9.3,76
+79,Shangri La Hotel Paris,9.3,46
+80,The Hoxton Amsterdam,9.3,409
+81,Hotel DO Pla a Reial G L ,9.3,101
+82,Hotel Plaza Athenee Paris,9.3,36
+83,Four Seasons Hotel London at Park Lane,9.3,91
+84,Maison Souquet,9.3,91
+85,Four Seasons Hotel George V Paris,9.3,121
+86,Palazzo Parigi Hotel Grand Spa Milano,9.3,122
+87,Luxury Suites Amsterdam,9.3,229
+88,Victoire Germain,9.3,53
+89,The Langham London,9.3,559
+90,Amba Hotel Charing Cross,9.3,785
+91,H tel Le Relais Saint Germain,9.3,40
+92,H tel Fabric,9.3,103
+93,Hollmann Beletage Design Boutique,9.3,102
+94,The Connaught,9.3,45
+95,Aparthotel Arai 4 Superior,9.3,205
+96,The Zetter Townhouse Marylebone,9.3,82
+97,H10 Cubik 4 Sup,9.3,382
+98,Hilton London Bankside,9.3,893
+99,The Corner Hotel,9.3,103
+100,Andaz Amsterdam Prinsengracht A Hyatt Hotel,9.3,214
+101,Room Mate Giulia,9.3,521
+102,Ambassade Hotel,9.3,551
+103,UNA Maison Milano,9.3,320
+104,The Ned,9.3,257
+105,Montcalm Royal London House City of London,9.2,715
+106,Hotel Le 10 BIS,9.2,49
+107,Hotel Indigo London Tower Hill,9.2,346
+108,Staybridge Suites London Vauxhall,9.2,244
+109,Staybridge Suites London Stratford,9.2,490
+110,Palais Hansen Kempinski Vienna,9.2,196
+111,Primero Primera,9.2,71
+112,One Aldwych,9.2,136
+113,Okko Hotels Paris Porte De Versailles,9.2,43
+114,Hotel Design Secret de Paris,9.2,93
+115,Draycott Hotel,9.2,129
+116,Hotel de Seze,9.2,80
+117,Hotel Berna,9.2,1052
+118,Grand H tel Du Palais Royal,9.2,206
+119,La Maison Favart,9.2,127
+120,Hotel Whistler,9.2,28
+121,La Villa Haussmann,9.2,41
+122,Conservatorium Hotel,9.2,138
+123,Hotel Imperial A Luxury Collection Hotel,9.2,77
+124,The Harmonie Vienna,9.2,206
+125,Sixtytwo Hotel,9.2,233
+126,Sofitel Legend The Grand Amsterdam,9.2,195
+127,Catalonia Passeig de Gr cia 4 Sup,9.2,500
+128,Sofitel London St James,9.2,352
+129,Le 123 Elysees Astotel,9.2,53
+130,Catalonia Catedral,9.2,488
+131,Hotel Kaiserin Elisabeth,9.2,388
+132,Bulgari Hotel Milano,9.2,17
+133,The Hari London,9.2,235
+134,Hotel 1898,9.2,432
+135,The Henrietta Hotel,9.2,27
+136,ME London by Melia,9.2,471
+137,Alma Barcelona GL,9.2,179
+138,H tel Moli re,9.2,124
+139,Mandarin Oriental Milan,9.2,34
+140,H10 Port Vell 4 Sup,9.2,359
+141,Banks Mansion All Inclusive Hotel,9.2,353
+142,H10 Metropolitan 4 Sup,9.2,514
+143,Hotel Neri,9.2,76
+144,Hotel Santa Marta Suites,9.2,177
+145,Le Pavillon de la Reine Spa,9.2,119
+146,Apex Temple Court Hotel,9.2,1037
+147,Hotel Op ra Richepanse,9.2,242
+148,B Montmartre,9.2,90
+149,Appartement Hotel an der Riemergasse,9.2,225
+150,ME Milan Il Duca,9.2,142
+151,Hotel Manzoni,9.2,206
+152,Armani Hotel Milano,9.2,156
+153,The Hoxton Holborn,9.2,755
+154,Hotel Midmost,9.2,108
+155,The Yard Milano,9.2,181
+156,The Zetter Townhouse Clerkenwell,9.1,31
+157,Hotel Indigo London Kensington,9.1,353
+158,Grand Pigalle Hotel,9.1,114
+159,H tel Amastan Paris,9.1,34
+160,Conrad London St James,9.1,358
+161,H10 Urquinaona Plaza,9.1,488
+162,Hotel Esther a,9.1,1837
+163,Apex London Wall Hotel,9.1,437
+164,Grand Hotel et de Milan,9.1,78
+165,The Stafford London,9.1,200
+166,De L Europe Amsterdam,9.1,137
+167,Hotel Indigo Paris Opera,9.1,115
+168,Room Mate Anna,9.1,293
+169,Hotel d Orsay Esprit de France,9.1,211
+170,Hotel du Petit Moulin,9.1,66
+171,Rocco Forte Brown s Hotel,9.1,49
+172,Hotel Capricorno,9.1,511
+173,Park Hyatt Milano,9.1,115
+174,Maison Borella,9.1,130
+175,Hidden Hotel by Elegancia,9.1,80
+176,citizenM Tower of London,9.1,1683
+177,Four Seasons Hotel Milano,9.1,44
+178,citizenM London Shoreditch,9.1,838
+179,citizenM London Bankside,9.1,1517
+180,Hotel Parc Saint Severin Esprit de France,9.1,162
+181,Idol Hotel,9.1,104
+182,Gallery Hotel,9.1,232
+183,Pulitzer Amsterdam,9.1,300
+184,Hotel Principe Di Savoia,9.1,280
+185,Mandarin Oriental Paris,9.1,21
+186,Edouard 7 Paris Op ra,9.1,184
+187,M by Montcalm Shoreditch London Tech City,9.1,2155
+188,Ohla Eixample,9.1,250
+189,Duquesa Suites Barcelona,9.1,281
+190,Hotel Bristol A Luxury Collection Hotel,9.1,60
+191,Number Sixteen,9.1,87
+192,Hotel le Lapin Blanc,9.1,152
+193,Relais Christine,9.1,92
+194,Knightsbridge Hotel,9.1,173
+195,Hotel Stefanie,9.1,884
+196,Residence Henri IV,9.1,171
+197,The Rookery,9.1,261
+198,H tel Ad le Jules,9.1,89
+199,My Home In Paris,9.1,82
+200,Mondrian London,9.1,1593
+201,Strandhotel Alte Donau,9.1,41
+202,Le G n ral H tel,9.1,122
+203,Hotel La Villa Saint Germain Des Pr s,9.1,51
+204,Bradford Elys es Astotel,9.1,82
+205,Hotel V Fizeaustraat,9.1,401
+206,H tel Da Vinci Spa,9.1,146
+207,The Ampersand Hotel,9.1,382
+208,The Arch London,9.1,191
+209,H tel R de Paris Boutique Hotel,9.1,113
+210,Hotel Villa Emilia,9.1,193
+211,The Berkeley,9.1,100
+212,Hotel V Nesplein,9.1,520
+213,Montagu Place Hotel,9.1,111
+214,The London EDITION,9.1,141
+215,Le Burgundy Paris,9.1,161
+216,The Chesterfield Mayfair,9.1,482
+217,Hotel Le Six,9.1,63
+218,H tel Regent s Garden,9.1,91
+219,The Dylan Amsterdam,9.1,104
+220,H tel Keppler,9.1,95
+221,The Dorchester Dorchester Collection,9.1,225
+222,The Curtain,9.1,30
+223,H tel L Echiquier Op ra Paris MGallery by Sofitel,9.1,139
+224,The Levin Hotel,9.1,63
+225,Room Mate Gerard,9.0,14
+226,Hotel de Nell,9.0,81
+227,H tel Duc De St Simon,9.0,115
+228,H tel La Comtesse by Elegancia,9.0,111
+229,BoB Hotel by Elegancia,9.0,49
+230,Hotel Casa Fuster G L Monumento,9.0,225
+231,H tel Regina,9.0,372
+232,Dorset Square Hotel,9.0,123
+233,Grand Hotel Wien,9.0,262
+234,The Hoxton Shoreditch,9.0,679
+235,Le Cinq Codet,9.0,257
+236,Bianca Maria Palace Hotel,9.0,520
+237,Hotel Monsieur,9.0,180
+238,DO CO Hotel Vienna,9.0,154
+239,Baglioni Hotel London The Leading Hotels of the World,9.0,114
+240,Steigenberger Hotel Herrenhof,9.0,521
+241,Hotel Landhaus Fuhrgassl Huber,9.0,71
+242,Le Grey Hotel,9.0,76
+243,Hotel Clerici,9.0,111
+244,Prince de Galles a Luxury Collection hotel Paris,9.0,40
+245,InterContinental Amstel Amsterdam,9.0,34
+246,The Capital,9.0,145
+247,The Bloomsbury Hotel,9.0,538
+248,Hazlitt s,9.0,241
+249,Le Pavillon des Lettres,9.0,40
+250,Acad mie H tel Saint Germain,9.0,255
+251,The Nadler Kensington,9.0,491
+252,Hotel La Lanterne,9.0,96
+253,Hotel Moonlight,9.0,285
+254,Ohla Barcelona,9.0,367
+255,The Nadler Soho,9.0,491
+256,Radisson Blu Edwardian New Providence Wharf,9.0,1148
+257,Terrass H tel Montmartre by MH,9.0,201
+258,art otel Amsterdam,9.0,790
+259,Mandarin Oriental Barcelona,9.0,77
+260,Hilton London Canary Wharf,9.0,1541
+261,St Paul s Hotel,9.0,381
+262,St Martins Lane A Morgans Original,9.0,492
+263,Senato Hotel Milano,9.0,204
+264,H tel Baume,9.0,88
+265,Hotel Well and Come,9.0,375
+266,H tel Barri re Le Fouquet s,9.0,35
+267,Landmark London,9.0,405
+268,The Piccadilly London West End,9.0,1125
+269,Hotel J ger,9.0,40
+270,COMO Metropolitan London,9.0,143
+271,La Clef Tour Eiffel,9.0,315
+272,Sir Adam Hotel,9.0,107
+273,COQ Hotel Paris,9.0,258
+274,H tel Recamier,9.0,44
+275,The Westbridge Hotel,9.0,588
+276,H tel de Jos phine BONAPARTE,9.0,76
+277,The Wellesley Knightsbridge a Luxury Collection Hotel London,9.0,77
+278,H tel Crayon Rouge by Elegancia,9.0,82
+279,Snob Hotel by Elegancia,9.0,60
+280,Hotel Am Parkring,9.0,431
+281,Artus Hotel by MH,9.0,58
+282,The Square Milano Duomo,9.0,898
+283,Ch teau Monfort Relais Ch teaux,9.0,227
+284,Sofitel Vienna Stephansdom,9.0,176
+285,Hotel Xenia Autograph Collection,9.0,296
+286,Antica Locanda Dei Mercanti,9.0,82
+287,Andaz London Liverpool Street,9.0,519
+288,Hotel Magna Pars Small Luxury Hotels of the World,9.0,83
+289,H tel Th r se,9.0,132
+290,Le Pigalle Hotel,9.0,42
+291,Novotel London Canary Wharf,9.0,146
+292,Crowne Plaza Amsterdam South,9.0,268
+293,The Ring Vienna s Casual Luxury Hotel,9.0,210
+294,Saint SHERMIN bed breakfast champagne,9.0,164
+295,Apex City Of London Hotel,9.0,1049
+296,San Domenico House,9.0,122
+297,Sanderson A Morgans Hotel,9.0,324
+298,Le Roch Hotel Spa,9.0,23
+299,NH Collection Barcelona Podium,8.9,146
+300,NH Collection Wien Zentrum,8.9,314
+301,Majestic Hotel Spa Barcelona GL,8.9,455
+302,Palazzo Segreti,8.9,68
+303,Maison Albar Hotel Paris C line,8.9,62
+304,Hotel Amadeus,8.9,144
+305,H tel Saint Paul Rive Gauche,8.9,45
+306,H tel Thoumieux,8.9,37
+307,H tel Aiglon Esprit de France,8.9,202
+308,Le A,8.9,91
+309,Legend Saint Germain by Elegancia,8.9,78
+310,Hotel Barcelona Catedral,8.9,870
+311,H tel De Buci by MH,8.9,58
+312,Hotel Beethoven Wien,8.9,162
+313,Hotel Bagu s,8.9,119
+314,Grand Hotel Central,8.9,298
+315,London Marriott Hotel West India Quay,8.9,1481
+316,London City Suites,8.9,740
+317,Nu Hotel,8.9,115
+318,La Villa Maillot,8.9,77
+319,Great Northern Hotel A Tribute Portfolio Hotel London,8.9,620
+320,Negresco Princess 4 Sup,8.9,520
+321,Park Hyatt Paris Vendome,8.9,29
+322,Lyric H tel Paris,8.9,97
+323,H tel Original Paris,8.9,30
+324,H tel de Lille,8.9,144
+325,K K Hotel Picasso,8.9,434
+326,H tel Exquis by Elegancia,8.9,157
+327,H tel Bourgogne Montana by MH,8.9,127
+328,Novotel London Wembley,8.9,1251
+329,Courthouse Hotel Shoreditch,8.9,259
+330,The Portobello Hotel,8.9,99
+331,Room Mate Carla,8.9,229
+332,Hotel Le Sainte Beuve,8.9,49
+333,Das Opernring Hotel,8.9,209
+334,The Kings Head Hotel,8.9,86
+335,Hotel Malte Astotel,8.9,26
+336,Hotel Saint Petersbourg Opera,8.9,383
+337,The Royal Horseguards,8.9,974
+338,St George s Hotel Wembley,8.9,1212
+339,Camperio House Suites Apartments,8.9,151
+340,Austria Trend Hotel Savoyen Vienna,8.9,713
+341,The Ritz Carlton Vienna,8.9,120
+342,Canary Riverside Plaza Hotel,8.9,138
+343,Vincci Gala,8.9,167
+344,The Laslett,8.9,250
+345,Derby Alma,8.9,140
+346,The Marylebone Hotel,8.9,677
+347,Schlosshotel R mischer Kaiser,8.9,301
+348,St Ermin s Hotel Autograph Collection,8.9,384
+349,Splendid Etoile,8.9,127
+350,Select Hotel,8.9,256
+351,Vincci Mae,8.9,106
+352,Hotel Omm,8.9,133
+353,Hotel Les Bains Paris,8.9,35
+354,The Montcalm Marble Arch,8.9,1061
+355,Col n Hotel Barcelona,8.9,396
+356,Club Quarters Hotel Lincoln s Inn Fields,8.9,1139
+357,XO Hotel,8.9,13
+358,Chasse Hotel,8.9,139
+359,Hotel L Antoine,8.9,171
+360,Hotel Spa La Belle Juliette,8.9,71
+361,INK Hotel Amsterdam MGallery by Sofitel,8.9,876
+362,Hotel VIU Milan,8.9,58
+363,The Chamberlain,8.9,969
+364,Park Plaza London Park Royal,8.9,197
+365,Falkensteiner Hotel Wien Margareten,8.9,167
+366,Jaz Amsterdam,8.9,1157
+367,Hotel Le Mareuil,8.9,47
+368,Hotel Das Tigra,8.9,358
+369,Best Western Premier Kapital Op ra,8.9,277
+370,Hotel Okura Amsterdam,8.9,459
+371,Element Amsterdam,8.9,298
+372,Pullman London St Pancras,8.9,1241
+373,The Zetter Hotel,8.9,177
+374,Chambiges Elys es,8.9,193
+375,Starhotels Echo,8.9,593
+376,Relais Du Louvre,8.9,88
+377,Hotel Villa Saxe Eiffel,8.9,80
+378,The Westbourne Hyde Park,8.9,275
+379,Drawing Hotel,8.9,14
+380,Hotel mbit Barcelona,8.9,316
+381,Boutique H tel Konfidentiel,8.9,19
+382,Arbor City,8.9,781
+383,Duquesa de Cardona,8.9,264
+384,Hotel Domizil,8.9,225
+385,Relais H tel du Vieux Paris,8.9,156
+386,H tel Les Dames du Panth on,8.8,70
+387,Hotel Murmuri Barcelona,8.8,90
+388,Molitor Paris MGallery by Sofitel,8.8,73
+389,Le Marquis Eiffel,8.8,121
+390,H tel Le Walt,8.8,63
+391,Hotel Le petit Paris,8.8,57
+392,The Drayton Court Hotel,8.8,391
+393,The Franklin Hotel Starhotels Collezione,8.8,28
+394,H tel Madison by MH,8.8,101
+395,H tel Lancaster Paris Champs Elys es,8.8,80
+396,Crowne Plaza Barcelona Fira Center,8.8,120
+397,The Montcalm At Brewery London City,8.8,1317
+398,Baglioni Hotel Carlton The Leading Hotels of the World,8.8,153
+399,Upper Diagonal,8.8,138
+400,UNA Hotel Cusani,8.8,264
+401,Hilton London Wembley,8.8,2227
+402,Threadneedles Autograph Collection,8.8,196
+403,London Marriott Hotel Park Lane,8.8,78
+404,Hotel Schani Wien,8.8,409
+405,H10 Art Gallery 4 Sup,8.8,323
+406,H tel du Minist re,8.8,206
+407,Hotel Milano Scala,8.8,263
+408,H tel des Academies et des Arts,8.8,50
+409,H tel de la Bourdonnais,8.8,362
+410,Les Plumes Hotel,8.8,113
+411,Hotel Seven One Seven,8.8,17
+412,Les Jardins De La Villa Spa,8.8,108
+413,Megaro Hotel,8.8,800
+414,Le Tourville Eiffel,8.8,140
+415,Le Saint Hotel Paris,8.8,42
+416,Austria Trend Hotel Anatol Wien,8.8,150
+417,Hotel Maison Ath n e,8.8,91
+418,Austria Trend Hotel Park Royal Palace Vienna,8.8,440
+419,Hotel Stendhal Place Vend me Paris MGallery by Sofitel,8.8,29
+420,Hotel Vignon,8.8,119
+421,Mercure Vienna First,8.8,79
+422,Adria Boutique Hotel,8.8,231
+423,H tel Paris Bastille Boutet MGallery by Sofitel,8.8,63
+424,Ayre Hotel Gran V a,8.8,797
+425,Le Pradey,8.8,59
+426,Hotel Pulitzer,8.8,495
+427,Hotel Vueling Bcn by HC,8.8,322
+428,H tel Gustave,8.8,165
+429,Hotel Erzherzog Rainer,8.8,601
+430,La Maison Champs Elys es,8.8,79
+431,Crowne Plaza London Docklands,8.8,1579
+432,Royal Garden Hotel,8.8,874
+433,Hotel Barcelona Universal,8.8,253
+434,A La Villa Madame,8.8,41
+435,D clic Hotel,8.8,59
+436,Grand Hotel Saint Michel,8.8,155
+437,Der Wilhelmshof,8.8,254
+438,Room Mate Aitana,8.8,916
+439,9Hotel Republique,8.8,183
+440,Novotel Suites Paris Expo Porte de Versailles,8.8,228
+441,L H tel,8.8,79
+442,Doubletree By Hilton London Greenwich,8.8,972
+443,The Cavendish London,8.8,416
+444,Hyatt Regency Amsterdam,8.8,67
+445,Hotel Des Saints Peres Esprit de France,8.8,105
+446,Glam Milano,8.8,1335
+447,every hotel Piccadilly,8.8,568
+448,Pol Grace Hotel,8.8,400
+449,Hotel De Hallen,8.8,355
+450,Maison Albar Hotel Paris Op ra Diamond,8.8,290
+451,25hours Hotel beim MuseumsQuartier,8.8,689
+452,Hotel Daniel Paris,8.8,12
+453,InterContinental Paris Le Grand,8.8,150
+454,Park Plaza London Waterloo,8.8,552
+455,Park Grand London Lancaster Gate,8.8,556
+456,Crowne Plaza London Battersea,8.8,589
+457,Hotel Georgette,8.8,51
+458,Catalonia Port,8.8,178
+459,Hotel Bachaumont,8.8,156
+460,The Beaufort,8.8,210
+461,Ten Manchester Street Hotel,8.8,218
+462,TWO Hotel Barcelona by Axel 4 Sup Adults Only,8.8,522
+463,Hotel Villa Lafayette Paris IX,8.8,25
+464,Morgan Mees,8.8,149
+465,St Pancras Renaissance Hotel London,8.8,1147
+466,Buddha Bar Hotel Paris,8.8,117
+467,NH Collection Amsterdam Doelen,8.8,316
+468,NH Collection Barcelona Gran Hotel Calder n,8.8,189
+469,Capri by Fraser Barcelona,8.8,518
+470,Catalonia Born,8.8,439
+471,Sofitel Paris Arc De Triomphe,8.8,194
+472,Hotel JL No76,8.8,312
+473,Amp re,8.8,172
+474,Sir Albert Hotel,8.8,335
+475,NYX Milan,8.8,180
+476,Hotel Ares Eiffel,8.8,212
+477,Hotel West End,8.8,129
+478,Nell Hotel Suites,8.8,45
+479,Grange Wellington Hotel,8.8,428
+480,Hotel Arts Barcelona,8.8,312
+481,Newhotel Roblin,8.8,271
+482,Cotton House Hotel Autograph Collection,8.8,48
+483,Hotel Granados 83,8.8,135
+484,ABaC Restaurant Hotel Barcelona GL Monumento,8.8,31
+485,Hotel Palais Strudlhof,8.7,134
+486,Hotel Miramar Barcelona GL,8.7,229
+487,Hotel Saint Dominique,8.7,121
+488,Hotel Champs Elys es Friedland by Happyculture,8.7,105
+489,Hilton London Tower Bridge,8.7,801
+490,Hotel America Barcelona,8.7,54
+491,Hotel Casa Bonay,8.7,360
+492,K K Hotel Maria Theresia,8.7,564
+493,Hyatt Regency London The Churchill,8.7,256
+494,Hotel Espa a Ramblas,8.7,670
+495,Hotel Zeitgeist Vienna Hauptbahnhof,8.7,100
+496,Hotel Atmospheres,8.7,155
+497,LaGare Hotel Milano Centrale MGallery by Sofitel,8.7,499
+498,Hotel Indigo London Paddington,8.7,268
+499,Hotel Chavanel,8.7,14
+500,London Bridge Hotel,8.7,167
+501,Holiday Inn Vienna City,8.7,66
+502,Hotel Verneuil Saint Germain,8.7,75
+503,Hotel Topazz,8.7,160
+504,Le Relais Madeleine,8.7,87
+505,Holiday Inn London Stratford City,8.7,994
+506,Hotel Lumen Paris Louvre,8.7,70
+507,Hotel Maison FL,8.7,102
+508,Hotel Marignan Champs Elys es,8.7,162
+509,Hotel Lam e,8.7,171
+510,11 Cadogan Gardens,8.7,159
+511,Hotel Park Lane Paris,8.7,154
+512,Novotel London Blackfriars,8.7,428
+513,The Bailey s Hotel London,8.7,1018
+514,Best Western Premier Hotel Couture,8.7,1809
+515,Gran Hotel La Florida,8.7,188
+516,The Chess Hotel,8.7,235
+517,The Kensington Hotel,8.7,333
+518,Grange City Hotel,8.7,405
+519,Balmoral Champs Elys es,8.7,114
+520,Novotel London City South,8.7,312
+521,Grange Tower Bridge Hotel,8.7,690
+522,Austria Trend Hotel Doppio Wien,8.7,339
+523,Ayre Hotel Rosell n,8.7,519
+524,H tel Arvor Saint Georges,8.7,106
+525,NH Collection Milano President,8.7,673
+526,H tel Brighton Esprit de France,8.7,284
+527,H tel Champs lys es Plaza,8.7,65
+528,H tel Chaplain Paris Rive Gauche,8.7,133
+529,NH Collection Barcelona Constanza,8.7,177
+530,H tel De Vend me,8.7,89
+531,Best Western Premier Op ra Li ge,8.7,129
+532,Sydney House Chelsea,8.7,258
+533,Starhotels Anderson,8.7,490
+534,Golden Tulip Bercy Gare de Lyon 209,8.7,168
+535,Radisson Blu Edwardian Hampshire,8.7,697
+536,Relais Saint Jacques,8.7,120
+537,Majestic Hotel Spa,8.7,38
+538,Pullman Paris Centre Bercy,8.7,224
+539,DoubleTree by Hilton Hotel London Tower of London,8.7,3212
+540,Phileas Hotel,8.7,192
+541,Crowne Plaza London Kensington,8.7,305
+542,Courtyard by Marriott Vienna Prater Messe,8.7,191
+543,Park Plaza Westminster Bridge London,8.7,4169
+544,Rubens At The Palace,8.7,765
+545,Condes de Barcelona,8.7,263
+546,Fielding Hotel,8.7,733
+547,Flemings Mayfair,8.7,499
+548,Francois 1er,8.7,136
+549,Castille Paris Starhotels Collezione,8.7,163
+550,St James Court A Taj Hotel London,8.7,2070
+551,St James Hotel Club Mayfair,8.7,135
+552,H tel Du Jeu De Paume,8.7,106
+553,Grosvenor House Suites by Jumeirah Living,8.7,100
+554,H tel Elysees Mermoz,8.7,107
+555,Ako Suites Hotel,8.7,131
+556,H tel Monna Lisa Champs Elys es,8.7,92
+557,Milan Suite Hotel,8.7,137
+558,H tel Raphael,8.7,78
+559,H tel San R gis,8.7,74
+560,The Royal Park Hotel,8.7,146
+561,Aloft London Excel,8.7,1126
+562,Alma Boutique Hotel,8.7,152
+563,H tel de Banville,8.7,104
+564,U232 Hotel,8.7,198
+565,W12 Rooms,8.7,405
+566,H tel de Varenne,8.7,95
+567,WestCord Fashion Hotel Amsterdam,8.7,1364
+568,Wilson Boutique Hotel,8.7,145
+569,Windermere Hotel,8.7,95
+570,Melia Paris Notre Dame,8.7,54
+571,Malmaison London,8.7,763
+572,H tel Mathis Elys es,8.7,194
+573,Villa d Estr es,8.7,29
+574,Radisson Blu Edwardian Mercer Street,8.7,767
+575,H tel Le Bellechasse Saint Germain,8.7,71
+576,The Student Hotel Amsterdam City,8.7,1576
+577,H tel Le Marianne,8.7,56
+578,Monsieur Cadet Hotel Spa Ex Meyerhold Spa ,8.7,62
+579,Au Manoir Saint Germain,8.6,166
+580,Hotel Indigo Barcelona Plaza Catalunya,8.6,133
+581,Hotel Odeon Saint Germain,8.6,167
+582,Hotel Mademoiselle,8.6,201
+583,The Rockwell,8.6,552
+584,ARCOTEL Kaiserwasser Superior,8.6,143
+585,Royal Saint Honore,8.6,136
+586,Hotel Xanadu,8.6,128
+587,Hotel Gallitzinberg,8.6,8
+588,Worldhotel Cristoforo Colombo,8.6,512
+589,Royal Passeig de Gracia,8.6,764
+590,Catalonia Rigoletto,8.6,277
+591,Crowne Plaza London The City,8.6,214
+592,Rosa Grand Milano Starhotels Collezione,8.6,736
+593,Dorsett Shepherds Bush,8.6,1266
+594,AC Hotel Victoria Suites a Marriott Lifestyle Hotel,8.6,45
+595,Hotel Panache,8.6,82
+596,Austria Trend Hotel Europa Wien,8.6,529
+597,citizenM Amsterdam,8.6,1178
+598,DoubleTree by Hilton London Islington,8.6,909
+599,AC Hotel Diagonal L Illa a Marriott Lifestyle Hotel,8.6,56
+600,Claris Hotel Spa GL,8.6,228
+601,Hotel Scribe Paris Opera by Sofitel,8.6,135
+602,Catalonia Ramblas 4 Sup,8.6,890
+603,Hotel Tiziano Park Vita Parcour Gruppo MiniHotels,8.6,61
+604,The Pelham Starhotels Collezione,8.6,277
+605,Hotel Tocq,8.6,34
+606,Barcel Sants,8.6,836
+607,The Mirror Barcelona,8.6,157
+608,The Level at Melia Barcelona Sky,8.6,22
+609,The Gore Hotel Starhotels Collezione,8.6,521
+610,UNA Hotel Century,8.6,385
+611,The Chelsea Harbour Hotel,8.6,550
+612,The Belgrave Hotel,8.6,957
+613,Urban Lodge Hotel,8.6,1071
+614,Hotel Les Rives de Notre Dame,8.6,72
+615,Radisson Blu Hotel Amsterdam,8.6,1177
+616,Best Western Premier Op ra Opal,8.6,141
+617,Art Hotel Navigli,8.6,366
+618,The Tower A Guoman Hotel,8.6,1828
+619,The Pillar Hotel,8.6,101
+620,Hotel Royal,8.6,149
+621,Austria Trend Parkhotel Sch nbrunn Wien,8.6,429
+622,Ashburn Hotel,8.6,239
+623,Catalonia Plaza Catalunya,8.6,964
+624,Ace Hotel London Shoreditch,8.6,514
+625,Hilton London Angel Islington,8.6,658
+626,Dukes Hotel,8.6,74
+627,Le Marceau Bastille,8.6,150
+628,H tel Hor,8.6,330
+629,H tel Duo,8.6,221
+630,NH Collection Amsterdam Barbizon Palace,8.6,792
+631,Hotel Am Konzerthaus Vienna MGallery by Sofitel,8.6,230
+632,H tel Bel Ami,8.6,105
+633,H tel Bedford,8.6,376
+634,NH Hesperia Barcelona Presidente,8.6,120
+635,La Villa des Ternes,8.6,144
+636,Radisson Blu Edwardian Bloomsbury Street,8.6,886
+637,Novotel London Greenwich,8.6,504
+638,Grange Beauchamp Hotel,8.6,321
+639,Grand Visconti Palace,8.6,188
+640,Novotel London Tower Bridge,8.6,389
+641,Hotel Park Villa,8.6,61
+642,Grand Ferdinand Vienna Your Hotel In The City Center,8.6,477
+643,Le Littr ,8.6,44
+644,H tel Juliana Paris,8.6,169
+645,Graben Hotel,8.6,114
+646,Le Mathurin Hotel Spa,8.6,158
+647,Henley House Hotel,8.6,419
+648,MARQUIS Faubourg St Honor Relais Ch teaux,8.6,13
+649,Marlin Waterloo,8.6,84
+650,Melia Vienna,8.6,501
+651,Mercer House B ria BCN,8.6,89
+652,H10 Casanova,8.6,159
+653,Mercure Amsterdam Sloterdijk Station,8.6,856
+654,Hilton Vienna Plaza,8.6,290
+655,Les Matins de Paris Spa,8.6,63
+656,Holiday Inn London Camden Lock,8.6,740
+657,Mercure London Hyde Park,8.6,221
+658,H tel Vernet,8.6,106
+659,H tel Pont Royal,8.6,62
+660,H tel Mansart Esprit de France,8.6,116
+661,Le Parisis Paris Tour Eiffel,8.6,428
+662,L Empire Paris,8.6,119
+663,Nhow Milan,8.6,197
+664,Pullman Paris Tour Eiffel,8.6,846
+665,Platine Hotel Spa,8.6,113
+666,Pestana Chelsea Bridge Hotel Spa,8.6,710
+667,Ofelias Hotel 4 Sup,8.6,81
+668,Park Plaza Victoria London,8.6,1443
+669,Hotel City Central,8.6,563
+670,Petit Palace Museum,8.6,341
+671,Park Inn by Radisson Uno City Vienna,8.6,361
+672,Jumeirah Carlton Tower,8.6,76
+673,FourSide Hotel Suites Vienna,8.6,110
+674,Jumeirah Lowndes Hotel,8.6,184
+675,K K Palais Hotel,8.6,228
+676,Franklin Roosevelt,8.6,88
+677,Golden Tulip Opera de Noailles,8.6,154
+678,Pullman Barcelona Skipper,8.6,278
+679,Pakat Suites Hotel,8.6,88
+680,Hotel Regina,8.5,590
+681,Mercure Vaugirard Paris Porte De Versailles,8.5,106
+682,Mercure Secession Wien,8.5,103
+683,Petit Palace Boqueria Garden,8.5,786
+684,Renaissance Paris Republique Hotel Spa,8.5,13
+685,Vincci Bit,8.5,411
+686,InterContinental London Park Lane,8.5,160
+687,Mercure London Bridge,8.5,414
+688,W Barcelona,8.5,575
+689,Hotel Plaza Elys es,8.5,105
+690,Mandarin Oriental Hyde Park London,8.5,85
+691,Roger de Ll ria,8.5,128
+692,Petit Palais Hotel De Charme,8.5,69
+693,WestCord Art Hotel Amsterdam 4 stars,8.5,467
+694,Rochester Champs Elysees,8.5,149
+695,UNA Hotel Scandinavia,8.5,68
+696,Mercure Hotel Raphael Wien,8.5,151
+697,Plaza Tour Eiffel,8.5,67
+698,Hotel de France Wien,8.5,956
+699,London Marriott Hotel County Hall,8.5,233
+700,Windsor Hotel Milano,8.5,435
+701,Uptown Palace,8.5,448
+702,Kingsway Hall Hotel,8.5,683
+703,Hotel Sanpi Milano,8.5,153
+704,IntercityHotel Wien,8.5,410
+705,Novotel Paris Gare De Lyon,8.5,566
+706,Swiss tel Amsterdam,8.5,830
+707,Starhotels Tourist,8.5,232
+708,The Mandeville Hotel,8.5,846
+709,Novotel London Paddington,8.5,391
+710,Novotel London Excel,8.5,574
+711,La Tremoille Paris,8.5,76
+712,K K Hotel George,8.5,566
+713,Sofitel Paris Le Faubourg,8.5,137
+714,Napoleon Paris,8.5,234
+715,Hotel Wandl,8.5,312
+716,The Rembrandt,8.5,712
+717,Le 7 Eiffel Hotel,8.5,76
+718,Simm s Hotel,8.5,92
+719,Silken Gran Hotel Havana,8.5,285
+720,Hotel Square,8.5,28
+721,Seven Hotel,8.5,48
+722,Le Marcel,8.5,72
+723,The Sumner Hotel,8.5,266
+724,Sercotel Amister Art Hotel Barcelona,8.5,80
+725,JUFA Hotel Wien,8.5,431
+726,Thistle Holborn The Kingsley,8.5,709
+727,Pestana Arena Barcelona,8.5,142
+728,The Westin Palace,8.5,178
+729,pentahotel Vienna,8.5,129
+730,Eurostars Grand Marina Hotel GL,8.5,1082
+731,Ayre Hotel Caspe,8.5,595
+732,H10 London Waterloo,8.5,484
+733,Amba Hotel Marble Arch,8.5,1262
+734,Hotel Arkadenhof,8.5,28
+735,Hotel 55,8.5,385
+736,Hampshire Hotel Amsterdam American,8.5,1242
+737,Gran Hotel Torre Catalunya,8.5,382
+738,Goodenough Club,8.5,466
+739,Acta Atrium Palace,8.5,458
+740,Hotel Le Saint Gregoire,8.5,20
+741,H tel Powers,8.5,237
+742,Apollofirst Boutique Hotel,8.5,372
+743,Golden Tulip Amsterdam West,8.5,1686
+744,Blakemore Hyde Park,8.5,2178
+745,Holiday Inn London Whitechapel,8.5,377
+746,Best Western Plus Hotel Galles,8.5,613
+747,Garden Elys e,8.5,75
+748,H tel Mayfair Paris,8.5,51
+749,Cram,8.5,159
+750,Crowne Plaza London Ealing,8.5,413
+751,Hotel Johann Strauss,8.5,110
+752,Hotel Imlauer Wien,8.5,156
+753,Antares Hotel Rubens,8.5,113
+754,Hotel Gran Derby Suites,8.5,75
+755,Crowne Plaza Milan City,8.5,157
+756,Acca Palace,8.5,209
+757,Fleming s Conference Hotel Wien,8.5,247
+758,Hotel Eden,8.5,70
+759,Best Western Le Jardin de Cluny,8.5,120
+760,H10 Universitat,8.5,280
+761,Hotel Balmes,8.5,210
+762,Enterprise Hotel Design Boutique,8.5,236
+763,Hotel Montalembert,8.5,44
+764,Bcn Urban Hotels Gran Rosellon,8.5,398
+765,Grange St Paul s Hotel,8.5,1154
+766,Austria Trend Hotel Astoria Wien,8.5,423
+767,DoubleTree by Hilton London Westminster,8.5,1243
+768,Austria Trend Hotel Rathauspark Wien,8.5,330
+769,Hotel Corvinus,8.5,108
+770,Clayton Hotel Chiswick,8.5,922
+771,Best Western Atlantic Hotel,8.5,306
+772,Eccleston Square Hotel,8.5,172
+773,H tel La Parizienne by Elegancia,8.5,124
+774,Hotel Opera Cadet,8.5,65
+775,Chateau Frontenac,8.5,188
+776,Hotel Oscar,8.5,84
+777,Hotel Cavour,8.5,400
+778,AC Hotel Paris Porte Maillot by Marriott,8.5,75
+779,Best Western Hotel Mirage,8.5,83
+780,H tel De Sers Champs Elys es Paris,8.5,80
+781,Hotel Daniel Vienna,8.5,245
+782,H tel France d Antin Op ra,8.5,30
+783,H tel Waldorf Trocad ro,8.5,74
+784,Grange Buckingham Hotel,8.5,49
+785,Club Quarters Hotel Trafalgar Square,8.5,945
+786,H tel Horset Op ra Best Western Premier Collection,8.5,199
+787,Amadi Panorama Hotel,8.4,481
+788,Trinit Haussmann,8.4,61
+789,Antares Hotel Accademia,8.4,30
+790,Timhotel Op ra Blanche Fontaine,8.4,93
+791,Eurostars Embassy,8.4,154
+792,Hotel Astra Opera Astotel,8.4,34
+793,NH Milano Touring,8.4,646
+794,Holiday Inn Amsterdam Arena Towers,8.4,282
+795,Hotel Barcelona Center,8.4,254
+796,Park Plaza County Hall London,8.4,2223
+797,Barcel Raval,8.4,552
+798,TownHouse Duomo,8.4,68
+799,Banke H tel,8.4,159
+800,Portobello House,8.4,131
+801,BEST WESTERN PLUS Amedia Wien,8.4,419
+802,NH Danube City,8.4,224
+803,Park Grand London Kensington,8.4,2059
+804,Georgian House Hotel,8.4,328
+805,Thistle Trafalgar Square The Royal Trafalgar,8.4,467
+806,The Exhibitionist Hotel,8.4,804
+807,Mercure Grand Hotel Biedermeier Wien,8.4,159
+808,H tel des Champs Elys es,8.4,183
+809,H tel Westminster,8.4,313
+810,Arthotel ANA Prime,8.4,306
+811,Grange Holborn Hotel,8.4,361
+812,The Grosvenor,8.4,1517
+813,Novotel Barcelona City,8.4,274
+814,Mercure Paris Alesia,8.4,74
+815,NH Milano Machiavelli,8.4,180
+816,Mercure Paris Bercy Biblioth que,8.4,125
+817,Best Western Hotel City,8.4,173
+818,Mercure Paris Montmartre Sacr Coeur,8.4,269
+819,Grupotel Gran Via 678,8.4,340
+820,NH Wien City,8.4,231
+821,Avenida Palace,8.4,807
+822,Melia Paris Vendome,8.4,51
+823,Melia Barcelona Sky 4 Sup,8.4,44
+824,Lindner Hotel Am Belvedere,8.4,84
+825,Novotel Paris Les Halles,8.4,523
+826,Best Western Premier Hotel Dante,8.4,199
+827,Hilton Vienna Danube Waterfront,8.4,426
+828,Best Western Premier Faubourg 88,8.4,179
+829,Hilton Paris Opera,8.4,109
+830,Best Western Plus Hotel Felice Casati,8.4,302
+831,Duret,8.4,38
+832,M venpick Hotel Amsterdam City Centre,8.4,520
+833,Madeleine Plaza,8.4,138
+834,Maison Albar H tel Paris Champs Elys es ex Mac Mahon ,8.4,159
+835,Arbor Hyde Park,8.4,826
+836,Hampton by Hilton Amsterdam Centre East,8.4,362
+837,Best Western Madison Hotel,8.4,376
+838,Arioso,8.4,38
+839,Maxim Op ra,8.4,35
+840,The Waldorf Hilton,8.4,800
+841,K West Hotel Spa,8.4,762
+842,NH Wien Belvedere,8.4,199
+843,K K H tel Cayr Saint Germain des Pr s,8.4,326
+844,Hotel Sezz Paris,8.4,24
+845,Hotel Louvre Montana,8.4,66
+846,Hotel Mercure Milano Centro,8.4,78
+847,Catalonia Barcelona Plaza,8.4,932
+848,Dikker en Thijs Fenice Hotel,8.4,543
+849,DoubleTree By Hilton London Excel,8.4,1464
+850,DoubleTree by Hilton Amsterdam Centraal Station,8.4,1254
+851,Sansi Pedralbes,8.4,30
+852,Hotel Dei Cavalieri,8.4,607
+853,W Amsterdam,8.4,214
+854,DoubleTree by Hilton London Hyde Park,8.4,945
+855,W London Leicester Square,8.4,267
+856,Boundary Rooms Suites,8.4,12
+857,Hotel Michelangelo,8.4,629
+858,Cordial Theaterhotel Wien,8.4,57
+859,DoubleTree by Hilton London Ealing,8.4,680
+860,Hotel Silver,8.4,26
+861,Hotel Mediolanum,8.4,120
+862,Residence Du Roy,8.4,222
+863,Waldorf Madeleine,8.4,281
+864,Hotel Louis 2,8.4,55
+865,Hotel Manin,8.4,224
+866,NH Collection Amsterdam Grand Hotel Krasnapolsky,8.4,1243
+867,Renaissance Paris Arc de Triomphe Hotel,8.4,48
+868,Hotel Mailberger Hof,8.4,338
+869,Club Quarters Hotel St Paul s,8.4,1606
+870,The Levante Parliament A Design Hotel,8.4,355
+871,Hotel La Spezia Gruppo MiniHotel,8.4,33
+872,Catalonia La Pedrera,8.4,155
+873,88 Studios,8.4,459
+874,Boutique Hotel Notting Hill,8.4,657
+875,Vienna Sporthotel,8.4,63
+876,Hotel ViennArt am Museumsquartier,8.4,458
+877,Hotel OFF Paris Seine,8.4,79
+878,Hotel Le Placide Saint Germain Des Pr s,8.4,24
+879,Hotel Pulitzer Paris,8.4,200
+880,Monhotel Lounge SPA,8.4,35
+881,DoubleTree by Hilton London Victoria,8.4,1063
+882,Corendon Vitality Hotel Amsterdam,8.4,941
+883,Hotel Regina,8.4,344
+884,Hotel du Vin Cannizaro House Wimbledon,8.4,289
+885,Courtyard by Marriott Amsterdam Arena Atlas,8.4,347
+886,Radisson Blu Style Hotel Vienna,8.4,249
+887,The May Fair Hotel,8.4,800
+888,Bentley London,8.4,198
+889,H tel F licien by Elegancia,8.4,66
+890,Royal Ramblas,8.4,722
+891,Ramada Plaza Milano,8.4,346
+892,Villa Opera Drouot,8.4,96
+893,HCC St Moritz,8.3,103
+894,The Victoria,8.3,162
+895,Hotel Tour d Auvergne Opera,8.3,25
+896,Hilton Garden Inn Milan North,8.3,440
+897,Brunelleschi Hotel,8.3,544
+898,H tel Diva Opera,8.3,233
+899,Windsor Opera,8.3,34
+900,Hotel Le Squara,8.3,122
+901,Hampshire Hotel The Manor Amsterdam,8.3,458
+902,Hilton Amsterdam,8.3,279
+903,The College Hotel,8.3,153
+904,Novotel London West,8.3,1283
+905,Meli Milano,8.3,107
+906,Arthotel ANA Westbahn,8.3,67
+907,Mercure Paris Pigalle Sacre Coeur,8.3,65
+908,Hotel Prinz Eugen,8.3,511
+909,Austria Trend Hotel Schloss Wilhelminenberg Wien,8.3,194
+910,The Justin James Hotel,8.3,260
+911,Sina The Gray,8.3,93
+912,Austria Trend Hotel Bosei Wien,8.3,391
+913,Hotel Roemer Amsterdam,8.3,268
+914,AC Hotel Milano a Marriott Lifestyle Hotel,8.3,72
+915,Mercure Tour Eiffel Grenelle,8.3,39
+916,Sofitel Paris Baltimore Tour Eiffel,8.3,123
+917,Catalonia Eixample 1864,8.3,428
+918,Hotel Mercure Milano Solari,8.3,80
+919,Hotel Mercure La Sorbonne Saint Germain des Pr s,8.3,80
+920,Grand Hotel Amr th Amsterdam,8.3,530
+921,Mercure London Bloomsbury Hotel,8.3,602
+922,Mercure Josefshof Wien,8.3,416
+923,Colombia,8.3,150
+924,Grange Blooms Hotel,8.3,173
+925,The Grand at Trafalgar Square,8.3,733
+926,ADI Doria Grand Hotel,8.3,147
+927,Novotel Paris 14 Porte d Orl ans,8.3,27
+928,Melia White House Hotel,8.3,656
+929,Novotel Paris Centre Bercy,8.3,171
+930,H tel Cristal Champs Elys es,8.3,127
+931,Hotel Marconi,8.3,256
+932,Melia Paris Champs Elys es,8.3,15
+933,Mercure Wien Zentrum,8.3,152
+934,Thistle Euston,8.3,1214
+935,Aparthotel Mariano Cubi Barcelona,8.3,91
+936,Vincci Maritimo,8.3,343
+937,Rathbone,8.3,354
+938,Lancaster London,8.3,651
+939,Eurostars Monumental,8.3,212
+940,Barcelona Princess,8.3,897
+941,Hotel Ambassador,8.3,236
+942,Mimi s Hotel Soho,8.3,390
+943,Hotel Advance,8.3,28
+944,Falkensteiner Hotel Wien Zentrum Schottenfeld,8.3,95
+945,Le Belmont Champs Elys es,8.3,83
+946,Amsterdam Canal Residence,8.3,67
+947,H tel Balzac,8.3,166
+948,Andreola Central Hotel,8.3,200
+949,Twenty Nevern Square Hotel,8.3,776
+950,Bermondsey Square Hotel A Bespoke Hotel,8.3,399
+951,Alexandra Barcelona A DoubleTree by Hilton,8.3,77
+952,Am Spiegeln,8.3,21
+953,Bassano,8.3,100
+954,Eurostars Bcn Design,8.3,272
+955,Hotel Balmoral,8.3,140
+956,Eurostars Angli,8.3,77
+957,LHP Hotel Napoleon,8.3,81
+958,Bilderberg Hotel Jan Luyken,8.3,366
+959,Vice Versa,8.3,59
+960,Etoile Saint Ferdinand,8.3,99
+961,Victoria Palace Hotel,8.3,24
+962,Klima Hotel Milano Fiere,8.3,109
+963,DoubleTree by Hilton London West End,8.3,926
+964,H tel Belloy Saint Germain By Happyculture,8.3,82
+965,Radisson Blu Edwardian Grafton,8.3,1354
+966,Hotel Cambon,8.3,55
+967,Hotel Capitol Milano,8.3,66
+968,Golden Tulip Washington Opera,8.3,102
+969,Park Plaza London Riverbank,8.3,2167
+970,Holiday Inn Paris Notre Dame,8.3,301
+971,Timhotel Op ra Grands Magasins,8.3,79
+972,Hotel Vilamar ,8.3,173
+973,STRAF a Member of Design Hotels ,8.3,246
+974,The Park City Grand Plaza Kensington Hotel,8.3,235
+975,London Marriott Hotel Regents Park,8.3,752
+976,Courtyard by Marriott Vienna Schoenbrunn,8.3,94
+977,R Kipling by Happyculture,8.3,84
+978,Hotel Grums Barcelona,8.3,265
+979,Hotel Eug ne en Ville,8.3,191
+980,Hotel degli Arcimboldi,8.3,1118
+981,Best Western Premier Le Swann,8.3,91
+982,Best Western Premier Marais Grands Boulevards,8.3,232
+983,Holiday Inn Paris Montmartre,8.3,55
+984,Hotel du Louvre in the Unbound Collection by Hyatt,8.3,286
+985,Park Hotel,8.3,636
+986,Le Senat,8.3,120
+987,Fleming s Selection Hotel Wien City,8.3,658
+988,TownHouse Galleria,8.3,153
+989,Le Meridien Vienna,8.3,508
+990,Le Metropolitan a Tribute Portfolio Hotel,8.3,66
+991,Holiday Inn Paris Gare de Lyon Bastille,8.3,395
+992,DoubleTree by Hilton London Chelsea,8.3,550
+993,Holiday Inn Milan Garibaldi Station,8.3,49
+994,Staunton Hotel B B,8.3,248
+995,Le Relais M dicis,8.3,30
+996,Holiday Inn London Wembley,8.3,1848
+997,First Hotel Paris Tour Eiffel,8.3,72
+998,Fairmont Rey Juan Carlos I,8.3,197
+999,NH London Kensington,8.2,225
+1000,NH City Centre Amsterdam,8.2,778
+1001,NH Hesperia Barcelona del Mar,8.2,139
+1002,NH Milano Palazzo Moscova,8.2,109
+1003,NH Milano Grand Hotel Verdi,8.2,177
+1004,H tel California Champs Elys es,8.2,275
+1005,Mercure Paris Montparnasse Raspail,8.2,79
+1006,NH Sants Barcelona,8.2,107
+1007,Eurostars Cristal Palace,8.2,385
+1008,Qualys Hotel Nasco,8.2,206
+1009,Radisson Blu Edwardian Kenilworth,8.2,942
+1010,Radisson Blu Edwardian Vanderbilt,8.2,1298
+1011,Radisson Blu Hotel Milan,8.2,223
+1012,Rainers Hotel Vienna,8.2,210
+1013,Ramada Apollo Amsterdam Centre,8.2,1704
+1014,DoubleTree by Hilton Hotel Amsterdam NDSM Wharf,8.2,312
+1015,De Vere Devonport House,8.2,1130
+1016,Caesar Hotel,8.2,317
+1017,Carlyle Brera Hotel,8.2,233
+1018,Catalonia Barcelona 505,8.2,130
+1019,Silken Concordia,8.2,158
+1020,Club Quarters Hotel Gracechurch,8.2,1103
+1021,Club Hotel Cortina,8.2,64
+1022,Sina De La Ville,8.2,273
+1023,Elys es R gencia,8.2,276
+1024,Eurostars Ramblas,8.2,372
+1025,The Leonard Hotel,8.2,435
+1026,Evenia Rossello,8.2,87
+1027,Grange Rochester Hotel,8.2,364
+1028,Nottingham Place Hotel,8.2,247
+1029,Novotel London Waterloo,8.2,287
+1030,Occidental Atenea Mar Adults Only,8.2,483
+1031,Oceania Paris Porte De Versailles,8.2,273
+1032,The Cleveland,8.2,289
+1033,Gardette Park Hotel,8.2,179
+1034,Four Points Sheraton Milan Center,8.2,136
+1035,Fifty Four Boutique Hotel,8.2,310
+1036,TH Street Duomo,8.2,33
+1037,Park Plaza Sherlock Holmes London,8.2,592
+1038,Sunotel Club Central,8.2,401
+1039,Sunotel Central,8.2,640
+1040,Pershing Hall,8.2,14
+1041,Suites H tel Helzear Champs Elys es,8.2,227
+1042,The Lodge Hotel Putney,8.2,297
+1043,Sloane Square Hotel,8.2,462
+1044,UNA Hotel Mediterraneo,8.2,73
+1045,The Westbury A Luxury Collection Hotel Mayfair London,8.2,289
+1046,Hilton London Paddington,8.2,1167
+1047,Innkeeper s Lodge London Greenwich,8.2,664
+1048,Albus Hotel Amsterdam City Centre,8.2,194
+1049,W Paris Op ra,8.2,40
+1050,Apollo Hotel Amsterdam,8.2,803
+1051,Hotel Duminy Vendome,8.2,150
+1052,Hotel Eitlj rg,8.2,12
+1053,Atala Champs Elys es,8.2,29
+1054,Hotel G tico,8.2,25
+1055,H10 Marina Barcelona,8.2,318
+1056,H10 Itaca,8.2,125
+1057,Abba Sants,8.2,120
+1058,Mercure Hotel Amsterdam Centre Canal District,8.2,258
+1059,Mercure Hotel Amsterdam City South,8.2,801
+1060,Inntel Hotels Amsterdam Centre,8.2,871
+1061,Hilton Milan,8.2,233
+1062,London Marriott Hotel Marble Arch,8.2,480
+1063,Vilana Hotel,8.2,62
+1064,Thistle Kensington Gardens,8.2,862
+1065,Little Palace Hotel,8.2,303
+1066,Holiday Inn London Bloomsbury,8.2,1216
+1067,Vienna Marriott Hotel,8.2,207
+1068,Leonardo Hotel Milan City Center,8.2,135
+1069,Holiday Inn London Regent s Park,8.2,826
+1070,Kensington House Hotel,8.2,269
+1071,L Edmond H tel,8.2,20
+1072,TownHouse 33,8.2,59
+1073,Holiday Inn Paris Op ra Grands Boulevards,8.2,110
+1074,L Hotel Pergol se Paris,8.2,195
+1075,Le M ridien Barcelona,8.2,118
+1076,Hotel Auriga,8.2,258
+1077,Arthotel ANA Boutique Six,8.2,390
+1078,Hotel Am Schubertring,8.2,285
+1079,Montfleuri,8.2,228
+1080,Hotel Trianon Rive Gauche,8.2,218
+1081,H tel Le M,8.2,131
+1082,The Queens Gate Hotel,8.2,1103
+1083,Millennium Copthorne Hotels at Chelsea Football Club,8.2,877
+1084,Hotel SB Diagonal Zero Barcelona 4 Sup,8.2,846
+1085,ADI Hotel Poliziano Fiera,8.2,107
+1086,Hotel Mercure Wien City,8.2,129
+1087,H tel Etoile Saint Honor by Happyculture,8.2,152
+1088,ARCOTEL Wimberger,8.2,149
+1089,AZIMUT Hotel Vienna,8.2,166
+1090,Hotel Les Th tres,8.2,123
+1091,The Park Tower Knightsbridge a Luxury Collection Hotel,8.2,275
+1092,My Chelsea,8.2,418
+1093,Austria Trend Hotel Ananas Wien,8.2,546
+1094,Hotel Les Bulles De Paris,8.2,159
+1095,NH Amsterdam Noord,8.2,143
+1096,Hotel Le Chat Noir,8.2,129
+1097,Amadi Park Hotel,8.1,396
+1098,Hotel D Este,8.1,98
+1099,InterContinental Wien,8.1,142
+1100,NH Barcelona Stadium,8.1,176
+1101,Hotel Claridge Paris,8.1,187
+1102,Sheraton Grand London Park Lane,8.1,115
+1103,Hotel Ciutadella Barcelona,8.1,93
+1104,Radisson Blu Edwardian Berkshire,8.1,555
+1105,Bilderberg Garden Hotel,8.1,567
+1106,La Villa Royale,8.1,76
+1107,Durrants Hotel,8.1,726
+1108,Hotel Montaigne,8.1,89
+1109,Karma Sanctum Soho Hotel,8.1,193
+1110,Hotel Raffaello,8.1,81
+1111,Pullman Paris Montparnasse,8.1,266
+1112,Strand Palace Hotel,8.1,4256
+1113,Hotel Rekord,8.1,58
+1114,Hotel Bellevue Wien,8.1,45
+1115,Hotel Boltzmann,8.1,70
+1116,Hotel Nestroy Wien,8.1,95
+1117,AC Hotel Barcelona Forum a Marriott Lifestyle Hotel,8.1,289
+1118,Rydges Kensington Hotel,8.1,496
+1119,Zenit Barcelona,8.1,79
+1120,Shaftesbury Suites London Marble Arch,8.1,289
+1121,Hotel du Collectionneur Arc de Triomphe,8.1,337
+1122,Hotel Vittoria,8.1,88
+1123,Starhotels Business Palace,8.1,504
+1124,Starhotels Ritz,8.1,653
+1125,Hotel Vienna,8.1,135
+1126,Crowne Plaza London Kings Cross,8.1,1007
+1127,Roomz Vienna,8.1,49
+1128,Danubius Hotel Regents Park,8.1,593
+1129,Das Triest Hotel,8.1,42
+1130,Warwick Paris Former Warwick Champs Elysees ,8.1,411
+1131,Hotel Alimara,8.1,195
+1132,Hotel des Tuileries Relais du Silence,8.1,91
+1133,Copthorne Tara Hotel London Kensington,8.1,3577
+1134,DoubleTree by Hilton Hotel London Marble Arch,8.1,425
+1135,Hotel Da Vinci,8.1,1876
+1136,Renaissance Paris Le Parc Trocadero Hotel,8.1,26
+1137,Hotel Dieci,8.1,50
+1138,DoubleTree by Hilton London Docklands Riverside,8.1,2147
+1139,Senator Hotel Vienna,8.1,240
+1140,Comfort Inn Suites Kings Cross St Pancras,8.1,442
+1141,Acta CITY47,8.1,381
+1142,Villa Panth on,8.1,276
+1143,Villa Beaumarchais,8.1,295
+1144,Imperial Riding School Renaissance Vienna Hotel,8.1,267
+1145,Hotel Serhs Rivoli Rambla,8.1,357
+1146,Westside Arc de Triomphe Hotel,8.1,293
+1147,Catalonia Diagonal Centro,8.1,246
+1148,DoubleTree By Hilton Milan,8.1,41
+1149,The Marble Arch London,8.1,561
+1150,Pertschy Palais Hotel,8.1,293
+1151,FourSide Hotel Vienna City Center,8.1,173
+1152,Op ra Marigny,8.1,115
+1153,Onix Liceo,8.1,240
+1154,London Marriott Maida Vale,8.1,451
+1155,Mercure Paris Opera Garnier,8.1,90
+1156,Aparthotel Adagio Vienna City,8.1,312
+1157,Good Hotel London,8.1,541
+1158,The Westin Paris Vend me,8.1,111
+1159,Austria Trend Hotel Lassalle Wien,8.1,148
+1160,Hilton Garden Inn Vienna South,8.1,20
+1161,Hilton Barcelona,8.1,45
+1162,Novotel Wien City,8.1,270
+1163,Best Western Nouvel Orl ans Montparnasse,8.1,174
+1164,Arion Cityhotel Vienna und Appartements,8.1,464
+1165,HCC Regente,8.1,72
+1166,Melia Barcelona Sarri ,8.1,107
+1167,Melia Paris Tour Eiffel,8.1,53
+1168,Amsterdam Marriott Hotel,8.1,389
+1169,Best Western Hotel Major,8.1,73
+1170,Novotel Paris Centre Gare Montparnasse,8.1,247
+1171,The Trafalgar Hilton,8.1,363
+1172,Mercure Paris Bastille Marais,8.1,34
+1173,Attica 21 Barcelona Mar,8.1,168
+1174,Best Western Hotel St George,8.1,273
+1175,Atlantis Hotel Vienna,8.1,325
+1176,Grange Clarendon Hotel,8.1,369
+1177,Avo Hotel,8.1,166
+1178,Mercure Paris Opera Louvre,8.1,94
+1179,Holiday Inn London West,8.1,701
+1180,Best Western Premier Op ra Faubourg Ex Hotel Jules ,8.1,323
+1181,Suites H tel Helzear Montparnasse,8.1,78
+1182,Tryp Barcelona Condal Mar Hotel,8.1,100
+1183,Best Western Antares Hotel Concorde,8.1,119
+1184,My Bloomsbury,8.1,463
+1185,Holiday Inn Paris Saint Germain des Pr s,8.1,234
+1186,H tel Jos phine by Happyculture,8.1,76
+1187,H tel Beauchamps,8.1,289
+1188,Barcel Milan,8.1,233
+1189,Guitart Grand Passage,8.1,133
+1190,TownHouse 12,8.1,64
+1191,Park Grand Paddington Court,8.1,2288
+1192,Grange Fitzrovia Hotel,8.1,455
+1193,Leonardo Hotel Vienna,8.1,728
+1194,Best Western Premier Louvre Saint Honor ,8.1,205
+1195,Les Jardins Du Marais,8.1,156
+1196,H tel Montmartre Mon Amour,8.1,63
+1197,The Athenaeum,8.1,189
+1198,Hotel Mozart,8.0,512
+1199,NH Amsterdam Museum Quarter,8.0,239
+1200,Royal Saint Michel,8.0,284
+1201,Mercure Paris 15 Porte de Versailles,8.0,25
+1202,Shaftesbury Hyde Park International,8.0,1029
+1203,Clayton Crown Hotel London,8.0,1079
+1204,The Principal London,8.0,1425
+1205,Saint James Albany Paris Hotel Spa,8.0,700
+1206,Courthouse Hotel London,8.0,867
+1207,Hotel Spa Villa Olimpica Suites,8.0,519
+1208,Hotel Vondel Amsterdam,8.0,522
+1209,City Hotel Deutschmeister,8.0,93
+1210,Zenit Borrell,8.0,84
+1211,Hotel SB Icaria Barcelona,8.0,839
+1212,Mercure Paris Opera Grands Boulevards,8.0,65
+1213,Mercure Paris Centre Tour Eiffel,8.0,770
+1214,AC Hotel Sants a Marriott Lifestyle Hotel,8.0,91
+1215,Axel Hotel Barcelona Urban Spa Adults Only,8.0,602
+1216,Shepherd s Bush Boutique Hotel,8.0,531
+1217,Grange Strathmore Hotel,8.0,448
+1218,Mercure Paris Notre Dame Saint Germain des Pr s,8.0,75
+1219,Mercure Paris Tour Eiffel Pont Mirabeau,8.0,70
+1220,Hotel Pension Baron am Schottentor,8.0,223
+1221,Hotel Kavalier,8.0,307
+1222,Eiffel Trocad ro,8.0,128
+1223,Best Western Plus de Neuville Arc de Triomphe,8.0,71
+1224,Radisson Blu Edwardian Sussex,8.0,573
+1225,Hotel Crivi s,8.0,74
+1226,Hilton Vienna,8.0,561
+1227,Doubletree by Hilton London Kensington,8.0,1009
+1228,Hotel Carrobbio,8.0,131
+1229,Holiday Inn London Mayfair,8.0,647
+1230,Hotel Bristol,8.0,73
+1231,Gartenhotel Altmannsdorf Hotel 1,8.0,20
+1232,Best Western Premier Trocadero La Tour,8.0,52
+1233,Holiday Inn Paris Elys es,8.0,63
+1234,Le M ridien Etoile,8.0,91
+1235,La Suite West Hyde Park,8.0,292
+1236,Park Plaza Victoria Amsterdam,8.0,1595
+1237,Le Lavoisier,8.0,12
+1238,Suite Hotel 900 m zur Oper,8.0,439
+1239,Hotel Wagner,8.0,10
+1240,London Marriott Hotel Kensington,8.0,189
+1241,Rafayel Hotel Spa,8.0,774
+1242,Atahotel Linea Uno,8.0,119
+1243,TheWesley,8.0,1117
+1244,Aparthotel Atenea Barcelona,8.0,178
+1245,Hotel Derby,8.0,75
+1246,Renaissance Amsterdam Hotel,8.0,532
+1247,Hotel Die Port van Cleve,8.0,336
+1248,Best Western Mornington Hotel Hyde Park,8.0,824
+1249,Derag Livinghotel Kaiser Franz Joseph Vienna,8.0,147
+1250,The Gates Diagonal Barcelona,8.0,287
+1251,Crowne Plaza Paris R publique,8.0,212
+1252,Novotel Milano Linate Aeroporto,8.0,189
+1253,Blakes Hotel,8.0,76
+1254,Mercure Barcelona Condor,8.0,46
+1255,Boscolo Milano Autograph Collection,7.9,195
+1256,Ambassadors Bloomsbury,7.9,768
+1257,Abba Garden,7.9,125
+1258,Best Western Tour Eiffel Invalides,7.9,74
+1259,AC Hotel Irla a Marriott Lifestyle Hotel,7.9,16
+1260,Best Western Palm Hotel,7.9,949
+1261,Catalonia Atenas,7.9,1061
+1262,Washington Mayfair Hotel,7.9,699
+1263,Old Ship Inn Hackney,7.9,140
+1264,Holiday Inn London Brent Cross,7.9,433
+1265,Le Dokhan s a Tribute Portfolio Hotel,7.9,68
+1266,Radisson Blu Portman Hotel London,7.9,868
+1267,Dutch Design Hotel Artemis,7.9,432
+1268,City Rooms,7.9,44
+1269,Hilton Diagonal Mar Barcelona,7.9,140
+1270,Petit Palace Barcelona,7.9,160
+1271,Exe Laietana Palace,7.9,424
+1272,Norfolk Towers Paddington,7.9,1531
+1273,Paddington Court Executive Rooms,7.9,278
+1274,Hotel Amsterdam De Roode Leeuw,7.9,170
+1275,H tel Regina Op ra Grands Boulevards,7.9,44
+1276,Renaissance Paris Vendome Hotel,7.9,14
+1277,H tel Victor Hugo Paris Kl ber,7.9,48
+1278,Grange Langham Court Hotel,7.9,296
+1279,Mercure Paris 17 me Saint Lazare Monceau,7.9,19
+1280,Mercure Paris Place d Italie,7.9,27
+1281,Mercure Paris Arc de Triomphe Etoile,7.9,21
+1282,Holiday Inn Paris Gare de l Est,7.9,1129
+1283,Novotel Paris 17,7.9,101
+1284,Mercure Paris Gare De Lyon TGV,7.9,411
+1285,Mercure Paris Bastille Saint Antoine,7.9,22
+1286,Paris Marriott Champs Elysees Hotel,7.9,94
+1287,InterContinental Paris Avenue Marceau,7.9,45
+1288,Ilunion Bel Art,7.9,50
+1289,Ilunion Barcelona,7.9,620
+1290,Hotel Parco di Sch nbrunn Vienna,7.9,59
+1291,H tel Concorde Montparnasse,7.9,346
+1292,Silken Ramblas,7.9,400
+1293,Sheraton Diana Majestic,7.9,83
+1294,Grosvenor House A JW Marriott Hotel,7.9,244
+1295,NH Amsterdam Caransa,7.9,256
+1296,Hotel Monceau Wagram,7.9,110
+1297,Hotel Mercure Wien Westbahnhof,7.9,87
+1298,Hotel Schild,7.9,98
+1299,Hotel Lombardia,7.9,55
+1300,Hotel Galileo,7.9,222
+1301,London Marriott Hotel Grosvenor Square,7.9,256
+1302,Hotel Elys es Bassano,7.9,121
+1303,Sall s Hotel Pere IV,7.9,509
+1304,Grange White Hall Hotel,7.9,210
+1305,Royal Hotel Champs Elys es,7.9,210
+1306,Paris Marriott Opera Ambassador Hotel,7.9,66
+1307,Medinaceli,7.8,82
+1308,The Colonnade,7.8,201
+1309,Best Western Mercedes Arc de Triomphe,7.8,58
+1310,Mercure Hotel Amsterdam West,7.8,432
+1311,The Cranley Hotel,7.8,160
+1312,MiHotel,7.8,22
+1313,Mercure Paris Gare Montparnasse,7.8,37
+1314,Novotel Milano Nord Ca Granda,7.8,59
+1315,The RE London Shoreditch,7.8,893
+1316,Novotel Amsterdam City,7.8,533
+1317,Millennium Gloucester Hotel London,7.8,2565
+1318,Millennium Hotel London Mayfair,7.8,1253
+1319,Millennium Hotel Paris Opera,7.8,125
+1320,Barcelona Hotel Colonial,7.8,54
+1321,Best Western Aulivia Op ra,7.8,100
+1322,Hampshire Hotel Rembrandt Square Amsterdam,7.8,748
+1323,Chiswick Rooms,7.8,342
+1324,Hilton London Hyde Park,7.8,259
+1325,Park International Hotel,7.8,502
+1326,Hotel Portello Gruppo Minihotel,7.8,71
+1327,Hotel Romana Residence,7.8,334
+1328,Hotel Le Pera,7.8,22
+1329,Sansi Diputacio,7.8,57
+1330,Acevi Villarroel,7.8,352
+1331,IH Hotels Milano Ambasciatori,7.8,318
+1332,Hotel Carlton s Montmartre,7.8,90
+1333,Hotel Best Western PLUS Alfa Aeropuerto,7.8,572
+1334,Hotel Atlanta,7.8,389
+1335,Hilton London Kensington Hotel,7.8,1845
+1336,TRYP Paris Op ra,7.8,71
+1337,Best Western S vres Montparnasse,7.8,188
+1338,Tryp Barcelona Apolo Hotel,7.8,179
+1339,Fletcher Hotel Amsterdam,7.8,594
+1340,Holiday Inn London Kensington,7.8,2768
+1341,London Hilton on Park Lane,7.8,331
+1342,The Bryson Hotel,7.8,130
+1343,Thistle Hyde Park,7.8,299
+1344,The Abbey Court Notting Hill,7.8,90
+1345,Best Western Allegro Nation,7.8,37
+1346,Best Western Plus Seraphine Hammersmith Hotel,7.8,743
+1347,Holiday Inn London Kensington Forum,7.8,1502
+1348,The Academy,7.8,258
+1349,NH Amsterdam Zuid,7.8,229
+1350,Amarante Champs Elys es,7.7,102
+1351,Hotel Arena,7.7,405
+1352,Holiday Inn Amsterdam,7.7,286
+1353,Ibis Styles Paris Gare Saint Lazare,7.7,14
+1354,Hotel 4 Barcelona,7.7,120
+1355,Mercure Milano Regency,7.7,27
+1356,Mokinba Hotels Baviera,7.7,139
+1357,Belfast,7.7,86
+1358,1K Hotel,7.7,148
+1359,Mercure Paris Porte De Versailles Expo,7.7,40
+1360,H tel des Ducs D Anjou,7.7,108
+1361,NH Amsterdam Centre,7.7,395
+1362,NH Amsterdam Schiller,7.7,485
+1363,The Park Grand London Paddington,7.7,1770
+1364,Park Avenue Baker Street,7.7,851
+1365,Best Western Ducs de Bourgogne,7.7,142
+1366,Best Western Plus Elys e Secret,7.7,111
+1367,Best Western Hotel Pension Arenberg Wien Zentrum,7.7,199
+1368,Senator Barcelona Spa Hotel,7.7,569
+1369,Best Western Hotel Astoria,7.7,37
+1370,Best Western Hotel Ascot,7.7,236
+1371,Grand Royale London Hyde Park,7.7,2958
+1372,The Hub Hotel,7.7,78
+1373,Exe Vienna,7.7,351
+1374,Ca Bianca Hotel Corte Del Naviglio,7.7,81
+1375,Best Western Bretagne Montparnasse,7.7,188
+1376,Best Western The Boltons Hotel London Kensington,7.7,549
+1377,Style Hotel,7.7,70
+1378,Shaftesbury Metropolis London Hyde Park,7.7,1095
+1379,Simply Rooms Suites,7.7,115
+1380,Best Western Plus 61 Paris Nation Hotel,7.7,74
+1381,Corus Hotel Hyde Park,7.6,1114
+1382,The Whitechapel,7.6,313
+1383,IH Hotels Milano Puccini,7.6,175
+1384,Mercure London Paddington Hotel,7.6,634
+1385,Best Western Paris Gare Saint Lazare,7.6,78
+1386,Ozo Hotel,7.6,473
+1387,IH Hotels Milano Watt 13,7.6,186
+1388,Villa Montparnasse,7.6,52
+1389,Novotel Suites Paris Montreuil Vincennes,7.6,192
+1390,Renaissance Barcelona Hotel,7.6,33
+1391,Forest Hill Paris la Villette,7.6,239
+1392,Le Meridien Piccadilly,7.6,260
+1393,Expo Hotel Barcelona,7.6,805
+1394,Hotel Garbi Millenni,7.6,80
+1395,Best Western Op ra Batignolles,7.6,101
+1396,Hotel La Place,7.6,125
+1397,Novotel Paris Centre Tour Eiffel,7.6,497
+1398,New Linden Hotel,7.6,876
+1399,Milan Marriott Hotel,7.6,74
+1400,Best Western Le 18 Paris,7.6,86
+1401,Mercure Paris Gobelins Place d Italie,7.6,24
+1402,Hotel Sunflower,7.6,51
+1403,Novotel Paris Vaugirard Montparnasse,7.6,216
+1404,Hotel 82 London,7.5,712
+1405,Le Grand H tel de Normandie,7.5,30
+1406,Victoires Opera,7.5,47
+1407,Mercure Paris 19 Philharmonie La Villette,7.5,54
+1408,Best Western Delphi Hotel,7.5,80
+1409,Park Grand London Hyde Park,7.5,819
+1410,Holiday Inn Paris Gare Montparnasse,7.5,331
+1411,Holiday Inn London Oxford Circus,7.5,484
+1412,Best Western Amiral Hotel,7.5,119
+1413,Paris Marriott Rive Gauche Hotel,7.5,46
+1414,Millennium Hotel London Knightsbridge,7.5,1007
+1415,Mokinba Hotels Montebianco,7.5,49
+1416,Park Plaza Vondelpark Amsterdam,7.5,592
+1417,Hotel Astor Saint Honor ,7.5,24
+1418,Hotel Boutique Duomo,7.5,62
+1419,Hotel De Vigny,7.5,63
+1420,Mercure Paris Op ra Faubourg Montmartre,7.5,33
+1421,Best Western PLUS Epping Forest,7.5,328
+1422,The Cumberland A Guoman Hotel,7.5,1809
+1423,Hotel Lloyd,7.5,211
+1424,Atahotel Contessa Jolanda,7.5,119
+1425,Mercure London Kensington Hotel,7.5,442
+1426,Hotel Front Maritim,7.5,136
+1427,Golden Tulip Amsterdam Riverside,7.5,506
+1428,Mayflower Hotel Apartments,7.5,851
+1429,Hilton London Metropole,7.5,2628
+1430,United Lodge Hotel and Apartments,7.5,223
+1431,Arenas Atiram Hotels,7.5,75
+1432,Saint Georges Hotel,7.5,728
+1433,Hotel Pierre Milano,7.5,67
+1434,IH Hotels Milano Gioia,7.5,423
+1435,Auteuil Tour Eiffel,7.5,196
+1436,Grand Hotel Downtown,7.5,415
+1437,Mercure Paris Porte d Orleans,7.5,10
+1438,Radisson Blu Champs Elys es Paris,7.4,152
+1439,Seraphine Kensington Gardens Hotel,7.4,310
+1440,Royal Amsterdam Hotel,7.4,162
+1441,Catalonia Park Putxet,7.4,442
+1442,Hotel Mentana,7.4,139
+1443,St George Hotel,7.4,122
+1444,Hotel Ronda Lesseps,7.4,83
+1445,Hilton London Euston,7.4,470
+1446,Best Western Blue Tower Hotel,7.4,845
+1447,Hotel Abbot,7.4,39
+1448,London Suites,7.4,114
+1449,Novotel Suites Paris Nord 18 me,7.4,180
+1450,Hilton London Olympia,7.4,889
+1451,Mercure Paris Terminus Nord,7.4,1459
+1452,Best Western Seraphine Kensington Olympia,7.4,374
+1453,Great St Helen Hotel,7.4,520
+1454,Mokinba Hotels King,7.3,152
+1455,Villa Alessandra,7.3,26
+1456,Shaftesbury Premier London Paddington,7.3,1546
+1457,The Premier Notting Hill,7.3,967
+1458,Best Western Plus Hotel Blue Square,7.3,594
+1459,Royal Garden Champs Elysees,7.3,202
+1460,Hilton London Green Park,7.3,484
+1461,Admiral Hotel,7.3,26
+1462,Best Western Hotel Montmartre Sacr Coeur,7.2,266
+1463,Mercure Paris Champs Elys es,7.2,39
+1464,H tel De Castiglione,7.2,201
+1465,Amarante Beau Manoir,7.2,159
+1466,Kube Hotel Ice Bar,7.2,19
+1467,Ilunion Almirante,7.1,264
+1468,Hyatt Regency Paris Etoile,7.1,874
+1469,Holiday Inn Paris Montparnasse Pasteur,7.1,37
+1470,Britannia International Hotel Canary Wharf,7.1,4789
+1471,BEST WESTERN Maitrise Hotel Maida Vale,7.1,816
+1472,Henry VIII,7.0,1107
+1473,Gran Hotel Barcino,7.0,82
+1474,Eurohotel Diagonal Port,7.0,52
+1475,Hotel Royal Elys es,7.0,45
+1476,Park Lane Mews Hotel,7.0,1057
+1477,Villa Lut ce Port Royal,7.0,47
+1478,London Elizabeth Hotel,7.0,236
+1479,IH Hotels Milano Lorenteggio,7.0,163
+1480,NH Carlton Amsterdam,7.0,1110
+1481,Hallmark Hotel London Chigwell Prince Regent,6.9,463
+1482,Idea Hotel Milano San Siro,6.9,467
+1483,Gainsborough Hotel,6.9,807
+1484,Bloomsbury Palace Hotel,6.8,1273
+1485,Villa Eugenie,6.8,31
+1486,Ibis Styles Milano Palmanova,6.7,12
+1487,Commodore Hotel,6.7,953
+1488,Best Western Maitrise Hotel Edgware Road,6.6,220
+1489,The Tophams Hotel,6.6,180
+1490,Hotel Cavendish,6.4,920
+1491,Savoy Hotel Amsterdam,6.4,243
+1492,Hotel Liberty,5.2,65
